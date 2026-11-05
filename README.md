@@ -1,11 +1,7 @@
-<div align="right">
+<div align="center">
 
-<a href="https://kaicolab.vercel.app/LoriGutierrez45529/#4d9c7f4792cf2170">
-<img src="readme/card.svg?v=1793729026" alt="" width="1600" />
+<a href="https://dataannotation.vercel.app/LoriGutierrez45529/#4d9c7f4792cf2170">
+  <img src="https://raw.githubusercontent.com/LoriGutierrez45529/LoriGutierrez45529/main/readme/card-1793894015.png" alt="Collaboration offer — long-term AI and software work" width="960" />
 </a>
 
 </div>
-
-Building small tools and experiments, and this is where it shows up.
-
-[Read the collaboration proposal →](https://kaicolab.vercel.app/LoriGutierrez45529/#4d9c7f4792cf2170)
